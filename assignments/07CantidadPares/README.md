@@ -23,7 +23,7 @@ El programa deberá de mostrar cuántos números ingresados fueron pares.
 Números enteros que reciben hasta que el número ingresado sea un número negativo.
 
 **Salida**  
-Cantidad de números pares que ingresó el usuario. El 0 cuéntalo como par. El formato para mostrar la salida es el texto: "Total de pares= " y seguido, sin espacio, el número de pares encontrados.
+Cantidad de números pares que ingresó el usuario. El 0 cuéntalo como par. El formato para mostrar la salida es el texto: "Total de pares= " y seguido, el número de pares encontrados.
 
 **Ejemplo de ejecución de un programa**  
 ```
